@@ -13,11 +13,31 @@
         }
       }
     },
+    "mcgg": {
+      "name": "Magic Chess GG",
+      "tier": "paid",
+      "key_prefix": "MCGG-",
+      "package": "com.moonton.mcgg",
+      "version": "0.1.0",
+      "abis": {
+        "arm64-v8a": {
+          "url": "https://raw.githubusercontent.com/nandoxscr/xfiles-plugins/main/mcgg/arm64-v8a/libGameMCGG.so",
+          "sha256": "ef20d49e0a41f178dac3a4218c81eea6b066213605a2ddbb504b376e47e10a97"
+        }
+      }
+    },
     "bs": {
-      "name": "Bonus Spike",
+      "name": "Blood Strike Mobile",
       "tier": "bonus",
       "key_prefix": "BS-",
-      "package": "com.netease.newspike"
+      "package": "com.netease.newspike",
+      "version": "0.1.0",
+      "abis": {
+        "arm64-v8a": {
+          "url": "https://raw.githubusercontent.com/nandoxscr/xfiles-plugins/main/bs/arm64-v8a/libGameBS.so",
+          "sha256": "11b1338928a03c6563144186b653dc8320d31ae6bf119ce872e0598e7120948d"
+        }
+      }
     }
   }
 }
