@@ -9,7 +9,7 @@
       "abis": {
         "arm64-v8a": {
           "url": "https://raw.githubusercontent.com/nandoxscr/xfiles-plugins/main/ml/arm64-v8a/libGameML.so",
-          "sha256": "03236bc9991e08e91bf52720e4d050b27a6c0dbfefdb00caa408d7d2cffce2a9"
+          "sha256": "51a826cc38320001a6cec2d3eb88849ca955f77fd00413ffb70d2f87422ec825"
         }
       }
     },
