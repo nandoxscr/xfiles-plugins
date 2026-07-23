@@ -1,16 +1,16 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-07-23T09:30:00Z",
+  "generated_at": "2026-07-23T10:00:00Z",
   "games": {
     "ml": {
       "name": "Mobile Legends",
-      "version": "0.6.1",
+      "version": "0.6.2",
       "abi_version": 2,
       "abis": {
         "arm64-v8a": {
           "url": "https://raw.githubusercontent.com/nandoxscr/xfiles-plugins/main/ml/arm64-v8a/libGameML.so",
-          "sha256": "b3afc1ce286039a183534b373dbddd3abe65bee0af6140af46720bc45d147f81",
-          "size": 6458760
+          "sha256": "9b8001681b68ea22bc93a767c61b25000b02edb1412548f2f4d8d64a16367ea2",
+          "size": 6462856
         }
       }
     }
